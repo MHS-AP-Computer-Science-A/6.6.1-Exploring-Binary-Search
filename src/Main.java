@@ -20,9 +20,9 @@ public class Main {
 		}
 		System.out.println("]");
 		
-		//Call the binary search method to search the array for 20
+		//Call the binary search method to search the array for 10
 		int index = /* TODO */
-		System.out.println("Result of binary search for 20: " + index);
+		System.out.println("Result of binary search for 10: " + index);
 		
 
 	}
