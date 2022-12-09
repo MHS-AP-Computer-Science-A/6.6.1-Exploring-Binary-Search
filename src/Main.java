@@ -6,7 +6,7 @@ public class Main {
 		
 		//Fill array with random numbers
 		for(int i = 0; i < numbers.length; i++) {
-			numbers[i] = (int)(Math.random() * 50);
+			numbers[i] = (int)(Math.random() * 75);
 		}
 		
 		
