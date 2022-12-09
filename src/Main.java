@@ -52,7 +52,7 @@ public class Main {
 				left = /* TODO */;
 			}
 			else if(toFind < arr[middle]) {
-				//What we are looking for is in the right half
+				//What we are looking for is in the left half
 				right = /* TODO */;
 			}
 		}
